@@ -25,7 +25,7 @@ var ObjectId = require('mongodb').ObjectID;
 *
 *****************************************************************************************************/
 
-const MONGODB_CONNECTION_URL = 'mongodb+srv://nestjs:ZeEjdswOWHwoenQO@cluster0-dbucq.gcp.mongodb.net';
+const MONGODB_CONNECTION_URL = 'mongodb+srv://murilobalves1:kOfh582GesTwJBcT@cluster0.mpj3l.mongodb.net/';
 
 // Database Name
 const dbName = 'nestjs-course';

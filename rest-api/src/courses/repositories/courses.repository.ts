@@ -10,8 +10,6 @@ export class CoursesRepository {
   ) {}
 
   async findAll(): Promise<Course[]> {
-    const array = this.courseModel.find()
-    console.log(array);
-    return array
+    return this.courseModel.find()
   }
 }
